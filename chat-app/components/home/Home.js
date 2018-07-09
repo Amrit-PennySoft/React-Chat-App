@@ -54,9 +54,9 @@ class Home extends React.Component {
 
 var styles = StyleSheet.create ({
   title: {
-    marginTop: 20,
-    marginLeft: 20,
-    fontSize: 22,
+    marginTop: 100,
+    marginLeft: 100,
+    fontSize: 25,
     color: 'lightgreen',
     
   },
@@ -69,6 +69,7 @@ var styles = StyleSheet.create ({
   buttonText: {
     marginLeft: 20,
     fontSize: 20,
+    color: 'lightgreen',
   }
 });
 
