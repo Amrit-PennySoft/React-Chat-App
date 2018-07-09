@@ -19,6 +19,7 @@ I set a state called 'username' to store the name, React has a feature where it 
 - StyleSheet
 - Animated
 - App Registry
+
 '{this.props.username}' - This is where the chat page receives the name. 
 I used the interpolate function from an Animated.Value to transition the background color of an Animated.View as well as simultaneously translate the position with the same Animated.Value for the animated Box.
 
