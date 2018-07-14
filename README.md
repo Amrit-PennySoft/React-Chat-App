@@ -29,3 +29,6 @@ Things i still need to do -
 Implement the Gifted Chat UI for react native - https://github.com/FaridSafi/react-native-gifted-chat
 
 Add backend using Firebase for the messages.
+
+
+![React native app](https://github.com/Amrit-PennySoft/React-Chat-App/blob/master/React.png)
